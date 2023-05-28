@@ -76,10 +76,6 @@
                 <form id="form-edit" method="get">
                     <input type="hidden" id="word-id-edit">
                     <div class="form-input">
-                        <input type="file" accept=".gif,.jpg,.jpeg,.png" name="image-add" id="image-add">
-                        <label id="image-label-add">Tambah Gambar</label>
-                    </div>
-                    <div class="form-input">
                         <input type="text" required="" id="word-label-edit" name="word-label-edit">
                         <label>English Word</label>
                     </div>
@@ -131,7 +127,7 @@
                             <p class="f-left">Emosi</p>
                         </a>
                     </li>
-                    <li class="menu-phrase active" style="background-color: #16AFCA;">
+                    <li class="menu-phrase">
                         <a href="phrases_view.php">
                             <div class="menu-icon-frame">
                                 <img src="assets/images/menu_family.png">
@@ -139,7 +135,7 @@
                             <p class="f-left">Orang</p>
                         </a>
                     </li>
-                    <li class="menu-people">
+                    <li class="menu-people active" style="background-color: #FFD95A;">
                         <a href="people_view.php">
                             <div class="menu-icon-frame">
                                 <img src="assets/images/menu_family.png">
@@ -153,7 +149,7 @@
         <div class="mainbar" id="mainbar">
             <header class="d-flex clearfix">
                 <i class="material-icons f-left menu-phone" onclick="toggleMenuOpen()" id="menu">menu</i>
-                <h5 class="f-left">Halaman Orang</h5>
+                <h5 class="f-left">Phrases Page</h5>
             </header>
             <button class="action-add ripple-effect" onclick="modalAdd()" style="background-color: #16AFCA;"><i class="material-icons">add</i></button>
             <div class="content" id="content">
@@ -169,7 +165,7 @@
 
 
     <script src="js/zero_css_script.js"></script>
-    <script src="js/phrases_script.js"></script>
+    <script src="js/people_script.js"></script>
 
 </body>
 

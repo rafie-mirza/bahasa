@@ -114,7 +114,7 @@
                     <li class="menu-number active" style="background-color: #FD8E09;">
                         <a href="index.php">
                             <div class="menu-icon-frame">
-                                <img src="assets/images/color_brown.png">
+                                <img src="assets/images/menu_number.png">
                             </div>
                             <p class="f-left">Angka</p>
                         </a>
@@ -122,27 +122,35 @@
                     <li class="menu-family">
                         <a href="family_view.php">
                             <div class="menu-icon-frame">
-                                <img src="assets/images/color_dusty_yellow.png">
+                                <img src="assets/images/menu_phrase.png">
                             </div>
                             <p class="f-left">Abjad</p>
                         </a>
                     </li>
                     <li class="menu-color">
-                        <a href="color_view.php">
+                        <a href="emosi_view.php">
                             <div class="menu-icon-frame">
                                 <img src="assets/images/menu_color.png">
                             </div>
                             <p class="f-left">Emosi</p>
                         </a>
                     </li>
-                    <!-- <li class="menu-phrase">
+                    <li class="menu-phrase">
                         <a href="phrases_view.php">
                             <div class="menu-icon-frame">
-                                <img src="assets/images/menu_phrase.png">
+                                <img src="assets/images/menu_family.png">
                             </div>
-                            <p class="f-left">Phrases</p>
+                            <p class="f-left">Orang</p>
                         </a>
-                    </li> -->
+                    </li>
+                    <li class="menu-people">
+                        <a href="people_view.php">
+                            <div class="menu-icon-frame">
+                                <img src="assets/images/menu_family.png">
+                            </div>
+                            <p class="f-left">Kata Ganti Orang</p>
+                        </a>
+                    </li>
                 </ul>
             </nav>
         </div>
