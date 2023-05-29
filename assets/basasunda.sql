@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 29, 2023 at 07:54 PM
+-- Generation Time: May 29, 2023 at 08:16 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.2.0
 
@@ -99,7 +99,13 @@ INSERT INTO `word` (`id`, `cat_id`, `label`, `sunda`, `image`) VALUES
 (58, 5, 'Home', 'Rumah', 'rumah.png'),
 (59, 5, 'Market', 'Pasar', 'pasar.png'),
 (60, 5, 'School', 'Sekolah', 'sekolah.png'),
-(61, 5, 'Park', 'Taman', 'taman.png');
+(61, 5, 'Park', 'Taman', 'taman.png'),
+(62, 6, 'Father', 'Ayah', 'ayah.png'),
+(63, 6, 'Mother', 'Ibu', 'ibu.png'),
+(64, 6, 'Kid', 'Anak', 'anak.png'),
+(65, 6, 'Aunt', 'Bibi', 'bibi.png'),
+(66, 6, 'Grandfather', 'Kakek', 'kakek.png'),
+(67, 6, 'Grandmother', 'Nenek', 'nenek.png');
 
 --
 -- Indexes for dumped tables
@@ -131,7 +137,7 @@ ALTER TABLE `category`
 -- AUTO_INCREMENT for table `word`
 --
 ALTER TABLE `word`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=62;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=68;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

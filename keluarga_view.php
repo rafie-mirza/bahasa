@@ -177,7 +177,7 @@
 
 
     <script src="js/zero_css_script.js"></script>
-    <script src="js/phrases_script.js"></script>
+    <script src="js/keluarga_script.js"></script>
 
 </body>
 
