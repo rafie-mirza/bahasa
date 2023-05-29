@@ -15,7 +15,7 @@
 
 > Berikut adalah User Interface yang ada didalam aplikasi ini : 
 
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/1.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss1.PNG"></p>
 <p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/2.PNG"></p>
 <p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/3.PNG"></p>
 <p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/4.PNG"></p>
