@@ -1,0 +1,59 @@
+phrases_controller.php action-frame deleted part line 49 - 56
+			            <div class='col-2 col-s-12 word-action-frame'>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
+                            </div>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
+                            </div>
+                        </div>
+
+people_controller.php action-frame deleted part line 49 - 56
+                        <div class='col-2 col-s-12 word-action-frame'>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
+                            </div>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
+                            </div>
+                        </div>
+ 
+number_controller.php action-frame deleted part line 49 - 56
+                        <div class='col-2 col-s-12 word-action-frame'>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
+                            </div>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
+                            </div>
+                        </div>
+
+keluarga_controller.php action-frame deleted part line 49 - 56
+                        <div class='col-2 col-s-12 word-action-frame'>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
+                            </div>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
+                            </div>
+                        </div>
+
+family_controller.php action-frame deleted part line 49 - 56
+                        <div class='col-2 col-s-12 word-action-frame'>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
+                            </div>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
+                            </div>
+                        </div>
+
+color_controller.php action-frame deleted part line 49 - 56
+                        <div class='col-2 col-s-12 word-action-frame'>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
+                            </div>
+                            <div class='col-6 d-flex flex-center'>
+                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
+                            </div>
+                        </div>

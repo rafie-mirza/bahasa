@@ -44,14 +44,6 @@
                             <p class='word-label'>".$data['label']."</p>
                             <p class='word-sunda'>".$data['sunda']."</p>
                         </div>
-                        <div class='col-2 col-s-12 word-action-frame'>
-                            <div class='col-6 d-flex flex-center'>
-                                <i class='material-icons action-edit' onclick='modalEdit(".$data['id'].")'>edit</i>
-                            </div>
-                            <div class='col-6 d-flex flex-center'>
-                                <i class='material-icons action-delete' onclick='modalDelete(".$data['id'].")'>delete</i>
-                            </div>
-                        </div>
                     </div>"; // return data from database
         }
         

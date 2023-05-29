@@ -306,6 +306,14 @@ footer{
 .menu-phrase.active{ background-color: #16AFCA; }
 .menu-phrase:hover{ background-color: #16AFCA; }
 
+.menu-people{ background-color: unset; }
+.menu-people.active{ background-color: #1B9C85; }
+.menu-people:hover{ background-color: #1B9C85; }
+
+.menu-keluarga{ background-color: unset; }
+.menu-keluarga.active{ background-color: #B70404; }
+.menu-keluarga:hover{ background-color: #B70404; }
+
 
 /*.action-edit, .action-delete{
 	opacity: 0;
