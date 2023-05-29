@@ -16,6 +16,14 @@
 > Berikut adalah User Interface yang ada didalam aplikasi ini : 
 
 <p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss1.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss2.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss3.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss4.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss5.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss6.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss7.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss8.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss9.PNG"></p>
 <!-- <p align="center"><img width="70%" height="auto" src="http://4.bp.blogspot.com/-ASimIJ3jrOU/XQNouYU1waI/AAAAAAAALUo/yv_abJvm_8Ie5shKGTBAC52TzwJt32L4QCK4BGAYYCw/s1600/basasunda-1.jpg"></p>
 <p align="center"><img width="70%" height="auto" src="http://2.bp.blogspot.com/-jCB0dlwg1n0/XQNouaJz4BI/AAAAAAAALUs/lBWCm39HtD8d1OdOKkPRsKx2iwwQri8xACK4BGAYYCw/s1600/basasunda-2.jpg"></p>
 <p align="center"><img width="70%" height="auto" src="http://4.bp.blogspot.com/-87XoBb2KDvA/XQNouX6t-aI/AAAAAAAALUk/mAB2Pyj5e-kDFjICz-JahmmikvQnJPa7wCK4BGAYYCw/s1600/basasunda-3.jpg"></p>
