@@ -135,12 +135,20 @@
                             <p class="f-left">Orang</p>
                         </a>
                     </li>
-                    <li class="menu-people active" style="background-color: #FFD95A;">
+                    <li class="menu-people active" style="background-color: #1B9C85;">
                         <a href="people_view.php">
                             <div class="menu-icon-frame">
                                 <img src="assets/images/menu_family.png">
                             </div>
-                            <p class="f-left">Kata Ganti Orang</p>
+                            <p class="f-left">Tempat</p>
+                        </a>
+                    </li>
+                    <li class="menu-keluarga">
+                        <a href="keluarga_view.php">
+                            <div class="menu-icon-frame">
+                                <img src="assets/images/menu_family.png">
+                            </div>
+                            <p class="f-left">Keluarga</p>
                         </a>
                     </li>
                 </ul>
@@ -149,7 +157,7 @@
         <div class="mainbar" id="mainbar">
             <header class="d-flex clearfix">
                 <i class="material-icons f-left menu-phone" onclick="toggleMenuOpen()" id="menu">menu</i>
-                <h5 class="f-left">Phrases Page</h5>
+                <h5 class="f-left">Halaman Tempat</h5>
             </header>
             <button class="action-add ripple-effect" onclick="modalAdd()" style="background-color: #16AFCA;"><i class="material-icons">add</i></button>
             <div class="content" id="content">
@@ -157,7 +165,7 @@
             </div>
 
             <footer>
-                <center>© Website Ayo Belajar Bahasa Isyarat 2022</center>
+                <center>© Website Ayo Belajar Bahasa Isyarat 2023</center>
             </footer>
 
         </div>

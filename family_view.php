@@ -148,7 +148,15 @@
                             <div class="menu-icon-frame">
                                 <img src="assets/images/menu_family.png">
                             </div>
-                            <p class="f-left">Kata Ganti Orang</p>
+                            <p class="f-left">Tempat</p>
+                        </a>
+                    </li>
+                    <li class="menu-keluarga">
+                        <a href="keluarga_view.php">
+                            <div class="menu-icon-frame">
+                                <img src="assets/images/menu_family.png">
+                            </div>
+                            <p class="f-left">Keluarga</p>
                         </a>
                     </li>
                 </ul>
@@ -165,7 +173,7 @@
             </div>
 
             <footer>
-                <center>© Website Ayo Belajar Bahasa Isyarat 2022</center>
+                <center>© Website Ayo Belajar Bahasa Isyarat 2023</center>
             </footer>
 
         </div>

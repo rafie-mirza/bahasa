@@ -10,23 +10,23 @@
 
         $arrayImageName = explode('.', $image);
         $extensionImage = "." . end($arrayImageName);
-        $newImageName = "color_" . $label . "_" . time() . $extensionImage;
+        $newImageName = "tempat_" . $label . "_" . time() . $extensionImage;
 
         $path   = "../assets/images/" . $newImageName;
 
-        $query = mysqli_query($koneksi, "INSERT INTO `word` (`id`, `cat_id`, `label`, `sunda`, `image`) VALUES (null, 3, '$label', '$sunda', '$newImageName')");
+        $query = mysqli_query($koneksi, "INSERT INTO `word` (`id`, `cat_id`, `label`, `sunda`, `image`) VALUES (null, 5, '$label', '$sunda', '$newImageName')");
         move_uploaded_file($_FILES['image-add']['tmp_name'], $path);
 
         if ($query) {
             $res = array(
                 'success' => true,
-                'messages' => 'Emosi berhasil ditambahkan'
+                'messages' => 'Tempat berhasil ditambahkan'
             );
             echo json_encode($res);
         }else{
             $res = array(
                 'success' => false,
-                'messages' => 'Emosi gagal ditambahkan'
+                'messages' => 'Tempat gagal ditambahkan'
             );
             echo json_encode($res);
         }
@@ -90,13 +90,13 @@
         if ($query) {
             $res = array(
                 'success' => true,
-                'messages' => 'Emosi berhasil ditambahkan'
+                'messages' => 'Tempat berhasil ditambahkan'
             );
             echo json_encode($res);
         }else{
             $res = array(
                 'success' => false,
-                'messages' => 'Emosi gagal ditambahkan'
+                'messages' => 'Tempat gagal ditambahkan'
             );
             echo json_encode($res);
         }
@@ -111,7 +111,7 @@
 
         $arrayImageName = explode('.', $image);
         $extensionImage = "." . end($arrayImageName);
-        $newImageName   = "color_" . $label . "_" . time() . $extensionImage;
+        $newImageName   = "tempat_" . $label . "_" . time() . $extensionImage;
         $path           = "../assets/images/" . $newImageName;
 
         $query = mysqli_query($koneksi, "UPDATE `word` SET 
@@ -126,13 +126,13 @@
         if ($query) {
             $res = array(
                 'success' => true,
-                'messages' => 'Emosi berhasil ditambahkan'
+                'messages' => 'Tempat berhasil ditambahkan'
             );
             echo json_encode($res);
         }else{
             $res = array(
                 'success' => false,
-                'messages' => 'Emosi gagal ditambahkan'
+                'messages' => 'Tempat gagal ditambahkan'
             );
             echo json_encode($res);
         }
@@ -148,13 +148,13 @@
         if ($query) {
             $res = array(
                 'success' => true,
-                'messages' => 'Word '.$id.' berhasil dihapus'
+                'messages' => 'Tempat '.$id.' berhasil dihapus'
             );
             echo json_encode($res);
         }else{
             $res = array(
                 'success' => false,
-                'messages' => 'Word '.$id.' gagal dihapus'
+                'messages' => 'Tempat '.$id.' gagal dihapus'
             );
             echo json_encode($res);
         }

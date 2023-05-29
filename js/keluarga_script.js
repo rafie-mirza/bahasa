@@ -24,7 +24,7 @@ function loadData(){
         	document.getElementById('content').innerHTML = ajax.responseText;
         }
     }
-    ajax.open('POST', './php/people_controller.php?type=view', true);
+    ajax.open('POST', './php/keluarga_controller.php?type=view', true);
     ajax.send();
 }
 
@@ -102,7 +102,7 @@ document.getElementById('form-add').addEventListener("submit", function(e){
         		modalClose();
 	        }
 	    }
-	    ajax.open('POST', './php/people_controller.php?type=insert', true);
+	    ajax.open('POST', './php/keluarga_controller.php?type=insert', true);
 	    ajax.send(formData);
         
     } 
@@ -122,7 +122,7 @@ function modalEdit(id) {
         	document.getElementById('word-sunda-edit').value = data["sunda"];
         }
     }
-    ajax.open('GET', './php/people_controller.php?type=getData&id=' + id, true);
+    ajax.open('GET', './php/keluarga_controller.php?type=getData&id=' + id, true);
     ajax.send();
 
 
@@ -161,9 +161,9 @@ document.getElementById('form-edit').addEventListener("submit", function(e){
 	var ajax = new XMLHttpRequest();
 
 	if(imageEdit == '' || imageEdit == null){
-        urlAjax = "./php/people_controller.php?type=edit&id=" + idEdit;
+        urlAjax = "./php/keluarga_controller.php?type=edit&id=" + idEdit;
     }else{
-    	urlAjax = "./php/people_controller.php?type=editWithImage&id=" + idEdit;   
+    	urlAjax = "./php/keluarga_controller.php?type=editWithImage&id=" + idEdit;   
     } 
 
 	ajax.onreadystatechange = function() {
@@ -190,7 +190,7 @@ function modalDelete(id) {
         	document.getElementById('word-sunda-delete').innerHTML 	= data["sunda"];
         }
     }
-    ajax.open('GET', './php/people_controller.php?type=getData&id=' + id, true);
+    ajax.open('GET', './php/keluarga_controller.php?type=getData&id=' + id, true);
     ajax.send();
 
 	var body = document.getElementById('body');
@@ -226,7 +226,7 @@ function deleteData(){
         	modalClose();
         }
     }
-    ajax.open('POST', './php/people_controller.php?type=delete&id=' + idDelete + '&image=' + imageDelete, true);
+    ajax.open('POST', './php/keluarga_controller.php?type=delete&id=' + idDelete + '&image=' + imageDelete, true);
     ajax.send();
 
     loadData();
