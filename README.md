@@ -15,12 +15,12 @@
 
 > Berikut adalah User Interface yang ada didalam aplikasi ini : 
 
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss1.PNG"></p>
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss2.PNG"></p>
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss3.PNG"></p>
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss4.PNG"></p>
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss5.PNG"></p>
-<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss6.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/1.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/2.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/3.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/4.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/5.PNG"></p>
+<p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/6.PNG"></p>
 
 <!-- <p align="center"><img width="70%" height="auto" src="http://4.bp.blogspot.com/-ASimIJ3jrOU/XQNouYU1waI/AAAAAAAALUo/yv_abJvm_8Ie5shKGTBAC52TzwJt32L4QCK4BGAYYCw/s1600/basasunda-1.jpg"></p>
 <p align="center"><img width="70%" height="auto" src="http://2.bp.blogspot.com/-jCB0dlwg1n0/XQNouaJz4BI/AAAAAAAALUs/lBWCm39HtD8d1OdOKkPRsKx2iwwQri8xACK4BGAYYCw/s1600/basasunda-2.jpg"></p>
